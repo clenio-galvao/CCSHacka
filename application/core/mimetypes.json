@@ -1,0 +1,298 @@
+[
+	{
+		"name": ".aac",
+		"template": "audio/aac"
+	},
+	{
+		"name": ".abw",
+		"template": "application/x-abiword"
+	},
+	{
+		"name": ".arc",
+		"template": "application/x-freearc"
+	},
+	{
+		"name": ".avi",
+		"template": "video/x-msvideo"
+	},
+	{
+		"name": ".azw",
+		"template": "application/vnd.amazon.ebook"
+	},
+	{
+		"name": ".bin",
+		"template": "application/octet-stream"
+	},
+	{
+		"name": ".bmp",
+		"template": "image/bmp"
+	},
+	{
+		"name": ".bz",
+		"template": "application/x-bzip"
+	},
+	{
+		"name": ".bz2",
+		"template": "application/x-bzip2"
+	},
+	{
+		"name": ".csh",
+		"template": "application/x-csh"
+	},
+	{
+		"name": ".css",
+		"template": "text/css"
+	},
+	{
+		"name": ".csv",
+		"template": "text/csv"
+	},
+	{
+		"name": ".doc",
+		"template": "application/msword"
+	},
+	{
+		"name": ".docx",
+		"template": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+	},
+	{
+		"name": ".eot",
+		"template": "application/vnd.ms-fontobject"
+	},
+	{
+		"name": ".epub",
+		"template": "application/epub+zip"
+	},
+	{
+		"name": ".gz",
+		"template": "application/gzip"
+	},
+	{
+		"name": ".gif",
+		"template": "image/gif"
+	},
+	{
+			"name": ".htm",
+			"template": "text/html"
+		},
+	{
+		"name": ".html",
+		"template": "text/html"
+	},
+	{
+		"name": ".ico",
+		"template": "image/vnd.microsoft.icon"
+	},
+	{
+		"name": ".ics",
+		"template": "text/calendar"
+	},
+	{
+		"name": ".jar",
+		"template": "application/java-archive"
+	},
+	{
+		"name": ".jpeg",
+		"template": "image/jpeg"
+	},
+	{
+		"name": ".jpg",
+		"template": "image/jpeg"
+	},
+	{
+		"name": ".js",
+		"template": "text/javascript"
+	},
+	{
+		"name": ".json",
+		"template": "application/json"
+	},
+	{
+		"name": ".jsonld",
+		"template": "application/ld+json"
+	},
+	{
+		"name": ".mid",
+		"template": "audio/midi"
+	},
+	{
+		"name": ".midi",
+		"template": "audio/midi"
+	},
+	{
+		"name": ".mjs",
+		"template": "text/javascript"
+	},
+	{
+		"name": ".mp3",
+		"template": "audio/mpeg"
+	},
+	{
+		"name": ".mpeg",
+		"template": "video/mpeg"
+	},
+	{
+		"name": ".mpkg",
+		"template": "application/vnd.apple.installer+xml"
+	},
+	{
+		"name": ".odp",
+		"template": "application/vnd.oasis.opendocument.presentation"
+	},
+	{
+		"name": ".ods",
+		"template": "application/vnd.oasis.opendocument.spreadsheet"
+	},
+	{
+		"name": ".odt",
+		"template": "application/vnd.oasis.opendocument.text"
+	},
+	{
+		"name": ".oga",
+		"template": "audio/ogg"
+	},
+	{
+		"name": ".ogv",
+		"template": "video/ogg"
+	},
+	{
+		"name": ".ogx",
+		"template": "application/ogg"
+	},
+	{
+		"name": ".opus",
+		"template": "audio/opus"
+	},
+	{
+		"name": ".otf",
+		"template": "font/otf"
+	},
+	{
+		"name": ".png",
+		"template": "image/png"
+	},
+	{
+		"name": ".pdf",
+		"template": "application/pdf"
+	},
+	{
+		"name": ".php",
+		"template": "application/x-httpd-php"
+	},
+	{
+		"name": ".ppt",
+		"template": "application/vnd.ms-powerpoint"
+	},
+	{
+		"name": ".pptx",
+		"template": "application/vnd.openxmlformats-officedocument.presentationml.presentation"
+	},
+	{
+		"name": ".rar",
+		"template": "application/vnd.rar"
+	},
+	{
+		"name": ".rtf",
+		"template": "application/rtf"
+	},
+	{
+		"name": ".sh",
+		"template": "application/x-sh"
+	},
+	{
+		"name": ".svg",
+		"template": "image/svg+xml"
+	},
+	{
+		"name": ".swf",
+		"template": "application/x-shockwave-flash"
+	},
+	{
+		"name": ".tar",
+		"template": "application/x-tar"
+	},
+	{
+			"name": ".tif",
+			"template": "image/tiff"
+		},
+	{
+		"name": ".tiff",
+		"template": "image/tiff"
+	},
+	{
+		"name": ".ts",
+		"template": "video/mp2t"
+	},
+	{
+		"name": ".ttf",
+		"template": "font/ttf"
+	},
+	{
+		"name": ".txt",
+		"template": "text/plain"
+	},
+	{
+		"name": ".vsd",
+		"template": "application/vnd.visio"
+	},
+	{
+		"name": ".wav",
+		"template": "audio/wav"
+	},
+	{
+		"name": ".weba",
+		"template": "audio/webm"
+	},
+	{
+		"name": ".webm",
+		"template": "video/webm"
+	},
+	{
+		"name": ".webp",
+		"template": "image/webp"
+	},
+	{
+		"name": ".woff",
+		"template": "font/woff"
+	},
+	{
+		"name": ".woff2",
+		"template": "font/woff2"
+	},
+	{
+		"name": ".xhtml",
+		"template": "application/xhtml+xml"
+	},
+	{
+		"name": ".xls",
+		"template": "application/vnd.ms-excel"
+	},
+	{
+		"name": ".xlsx",
+		"template": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+	},
+	{
+		"name": ".xml",
+		"template": "application/xml"
+},
+	{
+		"name": ".xul",
+		"template": "application/vnd.mozilla.xul+xml"
+	},
+	{
+		"name": ".zip",
+		"template": "application/zip"
+	},
+	{
+		"name": ".3gp",
+		"template": "audio/3gpp"
+	},
+	{
+		"name": ".3g2",
+		"template": "audio/3gpp2"
+	},
+	{
+		"name": ".7z",
+		"template": "application/x-7z-compressed"
+}
+]

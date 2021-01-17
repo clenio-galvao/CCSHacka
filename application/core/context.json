@@ -1,0 +1,8 @@
+{
+  "css"       : "assets/css/",
+  "javascript": "assets/javascript/",
+  "img"       : "media/img/",
+  "video"     : "media/video/",
+  "docs"      : "media/docs/",
+  "html"      : "templates/"
+}
