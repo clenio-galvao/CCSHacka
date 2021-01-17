@@ -1,0 +1,9 @@
+.search-form-comunidade{
+  width: 1200px;
+  display:flex;
+  justify-content: center
+}
+  
+.search-box .search-form-comunidade a {
+width:250px; margin-left:30px;background:#00C085;font-size:20px;line-height:1;text-align:center;color:#fff;display:block;padding:5px;border-radius:0px;text-transform:capitalize;font-family:"Muli",sans-serif;letter-spacing:0.1em;line-height:1.2;line-height:38px;font-size:14px;margin-bottom: 50px; display: flex; justify-content: center
+}

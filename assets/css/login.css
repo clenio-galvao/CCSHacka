@@ -1,0 +1,25 @@
+.login-box{
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.login{
+  width: 30%;
+}
+
+.register{
+  width: 30%;
+}
+
+.col-cgm-1{
+  width: 100%;
+}
+
+.input-field-checkbox{
+  display: flex;
+}
+
+.lembreme {
+  margin-left: 10px;
+}

@@ -1,0 +1,10 @@
+.services-img-cursos img{position:relative;border-radius: 5px;width: 100%;font-size:60px;margin-bottom:13px;color:#014b85;-webkit-transition:.3s;-moz-transition:.3s;-o-transition:.3s;transition:.3s}
+
+.pesquisa{
+  display: flex;
+  justify-content: space-around;
+}
+
+.input-field {
+  width: 450px;
+}
