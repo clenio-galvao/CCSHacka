@@ -8,10 +8,10 @@
  * 
  * O que cada pasta do projeto contém?
  * 
- * CDN        - Contém os códigos PHP da CDN;
- * templates  - Contém os HTML de cada tela da aplicação;
- * assets     - Contém arquivos tais como CSS e JavaScript que serão usados para exibir e interagir com o usuário do lado Front-End;
- * media      - Contém imagens, vídeos e arquivos que serão compartilhados no lado Front-End
+ * application - Contém os códigos PHP da CDN;
+ * assets      - Contém arquivos tais como CSS e JavaScript que serão usados para exibir e interagir com o usuário do lado Front-End;
+ * media       - Contém imagens, vídeos e arquivos que serão compartilhados no lado Front-End;
+ * templates   - Contém os HTML de cada tela da aplicação.
 */
 
 define('ROOTSERVER', dirname(__FILE__) . DIRECTORY_SEPARATOR);
