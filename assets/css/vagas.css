@@ -1,0 +1,52 @@
+.row {
+  width: 100%;
+}
+
+.pesquisa {
+  margin-left: 90px;
+}
+
+.d-flex {
+  display: flex;
+  align-items: center;
+  width: 100%;
+}
+.d-flex h1 {
+  width: 600px;
+}
+
+.d-flex img{
+  width: 45%;
+}
+
+.dois-inputs{
+  display: flex;
+}
+
+.input-field{
+  width: 1020px;
+}
+
+.input-field2{
+  width: 500px;
+  margin-right: 20px;
+}
+
+.single-job-items .job-tittle ul li ul {
+  height: 70px;
+  margin-right: 20px;
+}
+
+.single-job-items{
+  margin-left: 100px;
+}
+
+.search-form-vagas{
+  width: 1200px;
+  display:flex;
+  justify-content: center
+}
+
+.search-box .search-form-vagas a {
+  width:250px; margin-left:120px;background:#00C085;font-size:20px;line-height:1;text-align:center;color:#fff;display:block;padding:5px;border-radius:0px;text-transform:capitalize;font-family:"Muli",sans-serif;letter-spacing:0.1em;line-height:1.2;line-height:38px;font-size:14px;margin-bottom: 50px; display: flex; justify-content: center
+  }
